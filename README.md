@@ -1,2 +1,2 @@
 # Beta
-Beta sector for RogueWebsite
+Beta sector for my website
